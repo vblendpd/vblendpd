@@ -17,7 +17,7 @@
 <img src="gif/geomfilter.gif" width="16%" title="Geometric Filters"/>
 <img src="gif/idtech.gif" width="16%" title="idTech Level/Model Loading"/>
 <img src="gif/mobile.gif" width="16%" title="Mobile Games"/>
-<img src="gif/msdos.gif" width="16%" title="QBASIC, TurboC VGA 13H Experiments"/>
+<img src="gif/msdos.gif" width="16%" title="QBASIC, TurboC VGA 13h Experiments"/>
 <img src="gif/opengl.gif" width="16%" title="OpenGL Engine"/>
 <img src="gif/physics.gif" width="16%" title="Verlet and Rigid Body"/>
 <img src="gif/pic.gif" width="16%" title="PIC/FLIP Fluid"/>
